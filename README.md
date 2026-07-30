@@ -6,7 +6,7 @@ each team and get win probability backed by 16 years of IPL statistics.
 
 ## 🚀 Live Demo
 
-👉 [Open App]([#](https://ipl-playing-11-predictor.streamlit.app/)) 
+👉 [Open App](https://ipl-playing-11-predictor.streamlit.app/)
 
 ## 🎯 What Makes This Unique
 
